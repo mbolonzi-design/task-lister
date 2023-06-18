@@ -1,0 +1,20 @@
+#container {
+  width: 600px;
+  height: auto;
+  background-color: #e6ebea;
+  margin: 0 auto;
+}
+
+h2,
+h3 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+#new_todo {
+  width: 400px;
+}
+label {
+  font-weight: 600;
+}
